@@ -1,3 +1,4 @@
+var t = 0
 var produtos_painel = document.getElementById('produtos_painel')
 var carrinho_painel = document.getElementById('carrinho_painel')
 var carrinho_inf_valor_template =
